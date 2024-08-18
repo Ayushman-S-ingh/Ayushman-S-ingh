@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ayushman Singh</h1>
-<h3 align="center">3d YeaComputer Science Engineering in Data Science 3rd Student</h3>
+<h3 align="center">Computer Science Engineering in Data Science 3rd Year Student</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ayushman-s-ingh&label=Profile%20views&color=0e75b6&style=flat" alt="ayushman-s-ingh" /> </p>
 
