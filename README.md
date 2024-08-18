@@ -1,5 +1,8 @@
 <h1 align="center">Hi 👋, I'm Ayushman Singh</h1>
 <h3 align="center">Computer Science Engineering in Data Science 3rd Year Student</h3>
+<br>
+<img align="right" alt="coding" width="400px" src="https://github.com/user-attachments/assets/065bcdf1-e09a-45ad-a71c-47a7293e1555">
+"
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ayushman-s-ingh&label=Profile%20views&color=0e75b6&style=flat" alt="ayushman-s-ingh" /> </p>
 
