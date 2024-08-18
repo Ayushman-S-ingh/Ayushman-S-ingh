@@ -1,7 +1,5 @@
-
-
 <h1 align="center">Hi 👋, I'm Ayushman Singh</h1>
-<h3 align="center"> Computer Science Engineering in Data Science 3rd year Student</h3>
+<h3 align="center">3d YeaComputer Science Engineering in Data Science 3rd Student</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ayushman-s-ingh&label=Profile%20views&color=0e75b6&style=flat" alt="ayushman-s-ingh" /> </p>
 
@@ -11,7 +9,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="linkedin.com/in/ayushman--singh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin.com/in/ayushman--singh" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/ayushman--singh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ayushman singh" height="30" width="40" /></a>
 <a href="https://instagram.com/ayushman_singh_rajput_889" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ayushman_singh_rajput_889" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/@ayushmansingh401" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@ayushmansingh401" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/ayushman_-singh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="ayushman_-singh" height="30" width="40" /></a>
