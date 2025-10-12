@@ -1,0 +1,290 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>John Doe — Portfolio</title>
+  <meta name="description" content="Final Year CSE Student and aspiring software developer. Passionate about coding and problem-solving." />
+  <meta name="theme-color" content="#ffffff" />
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet" />
+  <link rel="stylesheet" href="styles.css" />
+</head>
+<body>
+  <a class="skip-link" href="#main">Skip to content</a>
+
+  <header class="site-header" role="banner">
+    <div class="container header-inner">
+      <a class="brand" href="#home" aria-label="Home">
+        <span class="brand-initials" aria-hidden="true">JD</span>
+        <span class="brand-name">John Doe</span>
+      </a>
+      <nav class="site-nav" aria-label="Primary">
+        <button class="menu-toggle" aria-expanded="false" aria-controls="primary-navigation">
+          <span class="menu-icon" aria-hidden="true"></span>
+          <span class="menu-label">Menu</span>
+        </button>
+        <ul id="primary-navigation" class="nav-list">
+          <li><a href="#home">Home</a></li>
+          <li><a href="#about">About</a></li>
+          <li><a href="#skills">Skills</a></li>
+          <li><a href="#projects">Projects</a></li>
+          <li><a href="#experience">Experience</a></li>
+          <li><a href="#achievements">Achievements</a></li>
+          <li><a href="#resume">Resume</a></li>
+          <li><a href="#contact">Contact</a></li>
+        </ul>
+      </nav>
+      <a class="btn btn-primary header-cta" href="assets/resume.pdf" download>Download Resume</a>
+    </div>
+  </header>
+
+  <main id="main">
+    <section id="home" class="section hero reveal">
+      <div class="container hero-inner">
+        <p class="eyebrow">Final Year CSE Student • Aspiring Software Developer</p>
+        <h1>John Doe</h1>
+        <p class="lead">Passionate about coding and problem‑solving.</p>
+        <div class="cta-row">
+          <a class="btn btn-primary" href="#projects">View Projects</a>
+          <a class="btn btn-outline" href="assets/resume.pdf" download>Download CV</a>
+        </div>
+        <div class="socials">
+          <a href="mailto:youremail@example.com" aria-label="Email">Email</a>
+          <a href="https://linkedin.com/in/your-handle" target="_blank" rel="noopener">LinkedIn</a>
+          <a href="https://github.com/your-handle" target="_blank" rel="noopener">GitHub</a>
+        </div>
+      </div>
+    </section>
+
+    <section id="about" class="section reveal">
+      <div class="container">
+        <h2>About Me</h2>
+        <p>I'm a final-year B.Tech Computer Science Engineering student at [Your College Name]. I enjoy building clean, scalable applications and solving real-world problems through code.</p>
+        <div class="about-grid">
+          <div class="about-card">
+            <h3>Education</h3>
+            <ul class="icon-list">
+              <li>
+                <span class="icon">🎓</span>
+                <span>B.Tech in Computer Science &amp; Engineering — [Your College], 2021–2025</span>
+              </li>
+            </ul>
+          </div>
+          <div class="about-card">
+            <h3>Interests</h3>
+            <ul class="tag-list">
+              <li>Backend Development</li>
+              <li>Web Apps</li>
+              <li>Data Structures &amp; Algorithms</li>
+              <li>Open Source</li>
+            </ul>
+          </div>
+          <div class="about-card">
+            <h3>Career Aspirations</h3>
+            <p>Looking for full-time Software Developer roles where I can contribute to building reliable products and continue learning.</p>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <section id="skills" class="section reveal">
+      <div class="container">
+        <h2>Skills</h2>
+        <div class="skills-grid">
+          <div class="skill-group">
+            <h3>Programming Languages</h3>
+            <ul class="tag-list">
+              <li>C++</li>
+              <li>Python</li>
+              <li>Java</li>
+            </ul>
+          </div>
+          <div class="skill-group">
+            <h3>Web Technologies</h3>
+            <ul class="tag-list">
+              <li>HTML</li>
+              <li>CSS</li>
+              <li>JavaScript</li>
+            </ul>
+          </div>
+          <div class="skill-group">
+            <h3>Frameworks &amp; Libraries</h3>
+            <ul class="tag-list">
+              <li>Bootstrap</li>
+              <li>React (basics)</li>
+              <li>Node.js (basics)</li>
+            </ul>
+          </div>
+          <div class="skill-group">
+            <h3>Tools &amp; Platforms</h3>
+            <ul class="tag-list">
+              <li>Git &amp; GitHub</li>
+              <li>Linux</li>
+              <li>VS Code</li>
+              <li>Postman</li>
+            </ul>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <section id="projects" class="section reveal">
+      <div class="container">
+        <h2>Projects</h2>
+        <div class="project-grid">
+          <article class="project-card">
+            <div class="project-header">
+              <h3>Smart Attendance System</h3>
+              <ul class="tech-list">
+                <li>Python</li><li>OpenCV</li><li>Flask</li>
+              </ul>
+            </div>
+            <p>Face recognition based attendance app with admin dashboard for managing classes and reports.</p>
+            <div class="project-links">
+              <a class="btn btn-small" href="#" target="_blank" rel="noopener">Live Demo</a>
+              <a class="btn btn-small btn-outline" href="#" target="_blank" rel="noopener">GitHub</a>
+            </div>
+          </article>
+
+          <article class="project-card">
+            <div class="project-header">
+              <h3>DSA Practice Tracker</h3>
+              <ul class="tech-list">
+                <li>Java</li><li>Spring Boot</li><li>MySQL</li>
+              </ul>
+            </div>
+            <p>Track problems solved across platforms with tags and streak analytics, with REST API and web UI.</p>
+            <div class="project-links">
+              <a class="btn btn-small" href="#" target="_blank" rel="noopener">Live Demo</a>
+              <a class="btn btn-small btn-outline" href="#" target="_blank" rel="noopener">GitHub</a>
+            </div>
+          </article>
+
+          <article class="project-card">
+            <div class="project-header">
+              <h3>Personal Portfolio</h3>
+              <ul class="tech-list">
+                <li>HTML</li><li>CSS</li><li>JavaScript</li>
+              </ul>
+            </div>
+            <p>Responsive, accessible portfolio site with smooth scrolling and reveal animations.</p>
+            <div class="project-links">
+              <a class="btn btn-small" href="#" target="_blank" rel="noopener">Live Demo</a>
+              <a class="btn btn-small btn-outline" href="#" target="_blank" rel="noopener">GitHub</a>
+            </div>
+          </article>
+
+          <article class="project-card">
+            <div class="project-header">
+              <h3>Movie Recommender</h3>
+              <ul class="tech-list">
+                <li>Python</li><li>Pandas</li><li>Streamlit</li>
+              </ul>
+            </div>
+            <p>Content-based filtering recommender to suggest similar movies with interactive UI.</p>
+            <div class="project-links">
+              <a class="btn btn-small" href="#" target="_blank" rel="noopener">Live Demo</a>
+              <a class="btn btn-small btn-outline" href="#" target="_blank" rel="noopener">GitHub</a>
+            </div>
+          </article>
+        </div>
+      </div>
+    </section>
+
+    <section id="experience" class="section reveal">
+      <div class="container">
+        <h2>Internships &amp; Experience</h2>
+        <ul class="timeline">
+          <li>
+            <div class="timeline-item">
+              <div class="timeline-meta">
+                <span class="timeline-role">Software Engineering Intern</span>
+                <span class="timeline-time">Jun 2024 — Aug 2024</span>
+                <span class="timeline-org">XYZ Tech</span>
+              </div>
+              <p>Built internal tools to automate data ingestion, reducing manual effort by 30%.</p>
+            </div>
+          </li>
+          <li>
+            <div class="timeline-item">
+              <div class="timeline-meta">
+                <span class="timeline-role">Training: Web Development</span>
+                <span class="timeline-time">Jan 2024 — Mar 2024</span>
+                <span class="timeline-org">Online Program</span>
+              </div>
+              <p>Hands-on projects with HTML, CSS, JavaScript and deployment.</p>
+            </div>
+          </li>
+        </ul>
+      </div>
+    </section>
+
+    <section id="achievements" class="section reveal">
+      <div class="container">
+        <h2>Achievements &amp; Certifications</h2>
+        <ul class="icon-list">
+          <li><span class="icon">🏆</span> CodeChef 4★ <span class="muted">— 1800 rating</span></li>
+          <li><span class="icon">📜</span> Coursera: Algorithms Specialization</li>
+          <li><span class="icon">✅</span> HackerRank: Problem Solving (Gold)</li>
+        </ul>
+      </div>
+    </section>
+
+    <section id="resume" class="section reveal">
+      <div class="container">
+        <h2>Resume</h2>
+        <p>You can download my CV using the button below.</p>
+        <a class="btn btn-primary" href="assets/resume.pdf" download>Download Resume</a>
+      </div>
+    </section>
+
+    <section id="contact" class="section reveal">
+      <div class="container">
+        <h2>Contact</h2>
+        <p>Feel free to reach out for opportunities or collaboration.</p>
+        <div class="contact-grid">
+          <a href="mailto:youremail@example.com" class="contact-card">
+            <span class="icon">✉️</span>
+            <div>
+              <div class="label">Email</div>
+              <div class="value">youremail@example.com</div>
+            </div>
+          </a>
+          <a href="https://linkedin.com/in/your-handle" target="_blank" rel="noopener" class="contact-card">
+            <span class="icon">🔗</span>
+            <div>
+              <div class="label">LinkedIn</div>
+              <div class="value">linkedin.com/in/your-handle</div>
+            </div>
+          </a>
+          <a href="https://github.com/your-handle" target="_blank" rel="noopener" class="contact-card">
+            <span class="icon">🐙</span>
+            <div>
+              <div class="label">GitHub</div>
+              <div class="value">github.com/your-handle</div>
+            </div>
+          </a>
+          <div class="contact-card">
+            <span class="icon">📱</span>
+            <div>
+              <div class="label">Phone</div>
+              <div class="value">+91-XXXXXXXXXX</div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </section>
+
+  </main>
+
+  <footer class="site-footer">
+    <div class="container footer-inner">
+      <p>© <span id="year"></span> John Doe. All rights reserved.</p>
+    </div>
+  </footer>
+
+  <script src="script.js" defer></script>
+</body>
+</html>
