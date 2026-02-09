@@ -21,15 +21,15 @@ I enjoy turning ideas into working products using Python, C++, and modern web te
 ## 🛠️ Featured Projects
 
 ### 🚗 Driver Drowsiness Detection System
-Real-time AI system that monitors driver alertness using facial landmarks and Eye Aspect Ratio (EAR) analysis and triggers safety alerts.
+Real-time AI system that monitors driver alertness using facial landmarks and Eye Aspect Ratio (EAR) analysis and triggers safety alerts.  
 *Python • OpenCV • MediaPipe*
 
 ### 📦 Inventory & Order Management System
-Full-stack web application to manage products, orders, and sales with dynamic backend APIs and responsive UI.
+Full-stack web application to manage products, orders, and sales with dynamic backend APIs and responsive UI.  
 *Python • React • MySQL*
 
 ### 📝 Blog / Content Management System
-Dynamic blogging platform with content creation, editing, and structured database management.
+Dynamic blogging platform with content creation, editing, and structured database management.  
 *Python • MySQL • HTML • CSS • JavaScript*
 
 ---
@@ -51,12 +51,13 @@ Dynamic blogging platform with content creation, editing, and structured databas
 
 ---
 
-## 📫 Let's Connect
+## 🌐 Portfolio & Profiles
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=firefox&logoColor=white)](https://ayushman-s-ingh.github.io/ayushmansingh-portfolio/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ayushman--singh/)
+[![LeetCode](https://img.shields.io/badge/LeetCode-F89F1B?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/Ayushman_-Singh/)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ayushmansingh400@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Ayushman-S-ingh)
-[![LeetCode](https://img.shields.io/badge/LeetCode-F89F1B?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/)
 
 ---
 
