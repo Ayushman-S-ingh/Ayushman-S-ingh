@@ -1,4 +1,4 @@
-# Hi 👋, I'm Ayushman Singh
+# Hi 👋 I'm Ayushman Singh
 
 Computer Science Engineer (Data Science) passionate about building **AI-powered systems**, **computer vision applications**, and **full-stack platforms** that solve real-world problems.
 
