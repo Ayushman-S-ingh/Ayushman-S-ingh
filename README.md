@@ -22,15 +22,19 @@ I enjoy turning ideas into working products using Python, C++, and modern web te
 
 ### 🚗 Driver Drowsiness Detection System
 Real-time AI system that monitors driver alertness using facial landmarks and Eye Aspect Ratio (EAR) analysis and triggers safety alerts.  
-*Python • OpenCV • MediaPipe*
+Tech Stack: *Python • OpenCV • MediaPipe*
 
 ### 📦 Inventory & Order Management System
 Full-stack web application to manage products, orders, and sales with dynamic backend APIs and responsive UI.  
-*Python • React • MySQL*
+Tech Stack: *Python • React • MySQL*
 
 ### 📝 Blog / Content Management System
 Dynamic blogging platform with content creation, editing, and structured database management.  
-*Python • MySQL • HTML • CSS • JavaScript*
+Tech Stack: *Python • MySQL • HTML • CSS • JavaScript*
+
+### 🌿 Papaya Leaf Disease Detection System
+AI-powered web application that detects and classifies papaya leaf diseases using a deep learning model (EfficientNetB0), providing disease predictions through an interactive interface.
+Tech Stack: Python • TensorFlow • Keras • EfficientNetB0 • React • Tailwind CSS • Flask • PostgreSQL • JWT
 
 ---
 
